@@ -16,4 +16,4 @@ The program splits the data into training and testing sets (80% for training and
 
 The program compares the performance of both models and determines that the SVM model is the best model for emotion classification based on its higher accuracy, precision, recall, and F1-score. Conclusion:
 
-The program demonstrates the use of NLP techniques and machine learning models to classify emotions from text data. The SVM model is found to be the best model for this task
+The program demonstrates the use of NLP techniques and machine learning models to classify emotions from text data. The SVM model is found to be the best model for this task.
